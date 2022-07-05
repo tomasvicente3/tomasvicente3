@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomasvicente3
 - 👀 I’m interested in Gaming, Chess and Programming
-- 🌱 I’m currently taking a degree in Computer Engineering
+- 🌱 I’m currently taking a degree in Informatic & Computing Engineering
 - 📫 How to reach me: @tomas_vicente3 in Instagram and Twitter
      
 
