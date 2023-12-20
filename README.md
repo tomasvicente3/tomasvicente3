@@ -9,9 +9,9 @@
 Currently:
 - BSc in Informatics and Computing Engineering @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br>
 
-<div align="center" style="flex flex-row">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tomasvicente3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasvicente3&layout=compact&langs_count=7&theme=dracula"/>   
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tomasvicente3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasvicente3&layout=compact&langs_count=7&theme=dracula"/>   
 </div>
 
 <h2 align = "center" >Class Projects</h2>
