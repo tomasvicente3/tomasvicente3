@@ -14,7 +14,7 @@ Currently:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasvicente3&layout=compact&langs_count=7&theme=dracula"/>   
 </div>
 
-<h2 align = "center" >Projects</h2>
+<h2 align = "center" >Class Projects</h2>
 <p align = "center">
 
 | UC   | Name      | Description                                                                                                                                                   |
