@@ -19,11 +19,11 @@ Currently:
 
 | UC   | Name      | Description                                                                                                                                                   |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| FPro | [Let's Get Ready To Bumble](https://github.com/tomasvicente3/FPro-LGRTB) | Recriação do Let's Get Ready to Bumble de GTA:SA com a biblioteca pygame de python.|
-| AED | [AedAirTransport](https://github.com/tomasvicente3/AedAirTransport) | Graph problem based on its study and path search through it. |
+| FPro | [Let's Get Ready To Bumble](https://github.com/tomasvicente3/FPro-LGRTB) | Recriation of GTA:SA's Let's Get Ready to Bumble using Python's pygame library.|
+| AED | [AedAirTransport](https://github.com/tomasvicente3/AedAirTransport) | Graph problem based on its study and path search through it. Solved using C++. |
 | ESof | [CineScope](https://github.com/tomasvicente3/esof-CineScope)| Social media built in Flutter that allows users to create lists with movies they want to watch and discuss them|
-| DA | [Railway Management](https://github.com/tomasvicente3/DA-RailwayManagement)| Graph problem based on max-flow betweed nodes and min span trees.|
-| DA | [Travelling Salesperson](https://github.com/tomasvicente3/DA-TravellingSalesperson) | Study on TSP solutions (run-time and result wise) through various approaches and heuristics|
+| DA | [Railway Management](https://github.com/tomasvicente3/DA-RailwayManagement)| Graph problem based on max-flow betweed nodes and min span trees. Solved using C++.|
+| DA | [Travelling Salesperson](https://github.com/tomasvicente3/DA-TravellingSalesperson) | Study on TSP solutions (run-time and result wise) through various approaches and heuristics. Made in C++.|
 | PFL | [Splut](https://github.com/tomasvicente3/pfl-splut) | "Splut" board game recreation using Prolog. |
 | LBAW | [Auctionado]() | *In Development* Auction Website built using Laravel 10, tailwind, blade and other technologies. |
 | RCom | [Transfer]() | *In Development* FTP and serial-port comunication protocol implementations. |
