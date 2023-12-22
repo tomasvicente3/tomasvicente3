@@ -20,19 +20,18 @@ Currently:
 | UC   | Name      | Description                                                                                                                                                   |
 |------|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | FPro | [Let's Get Ready To Bumble](https://github.com/tomasvicente3/FPro-LGRTB) | Recriation of GTA:SA's Let's Get Ready to Bumble using Python's pygame library.|
-| AED | [AedAirTransport](https://github.com/tomasvicente3/AedAirTransport) | Graph problem based on its study and path search through it. Solved using C++. |
-| ESof | [CineScope](https://github.com/tomasvicente3/esof-CineScope)| Social media built in Flutter that allows users to create lists with movies they want to watch and discuss them|
+| AED | [HorariosLEIC](https://github.com/tomasvicente3/AED-HorariosLEIC) | Abstract Data Types problem based on the creation and edit of schedules.|
+| AED | [AirTransport](https://github.com/tomasvicente3/AED-AirTransport) | Graph problem based on its study and path search through it. Solved using C++. |
+| LDTS | [Bomberman](https://github.com/tomasvicente3/ldts-bomberman) | Bomberman recreation using Java with a Test-Driven methodology for the LDTS class. |
+| LTW | [Tickets](https://github.com/tomasvicente3/LTW-Tickets) | Ticketing and Client Support Website built for the LTW class using basic HTML, CSS, PHP and JavaScript knowledge |
+| LCom | [MiniPicty](https://github.com/tomasvicente3/LCom-MiniPicty) | Pictionary recreation with incorporation of peripherals in Minix OS. |
+| ESof | [CineScope](https://github.com/tomasvicente3/ESof-CineScope)| Social media built in Flutter that allows users to create lists with movies they want to watch and discuss them|
 | DA | [Railway Management](https://github.com/tomasvicente3/DA-RailwayManagement)| Graph problem based on max-flow betweed nodes and min span trees. Solved using C++.|
 | DA | [Travelling Salesperson](https://github.com/tomasvicente3/DA-TravellingSalesperson) | Study on TSP solutions (run-time and result wise) through various approaches and heuristics. Made in C++.|
 | PFL | [Splut](https://github.com/tomasvicente3/pfl-splut) | "Splut" board game recreation using Prolog. |
 | LBAW | [Auctionado]() | *In Development* Auction Website built using Laravel 10, tailwind, blade and other technologies. |
 | RCom | [Transfer]() | *In Development* FTP and serial-port comunication protocol implementations. |
 
-<!--| AED | [HorariosL.EIC](https://github.com/tomasvicente3/HorariosLEIC) | Abstract Data Types problem based on the creation and edit of schedules.|
-| LDTS | [Bomberman](https://github.com/tomasvicente3/ldts-bomberman) | Bomberman recreation using Java with a Test-Driven methodology for the LDTS class. |
-| BDad | []() | |
-| LCom | [Gartic?]() | |
-| LTW | [Tickets](https://github.com/tomasvicente3/ltw-tickets) | Ticketing and Client Support Website built for the LTW class using basic HTML, CSS, PHP and JavaScript knowledge |-->
 
 <h2 align = "center" >Contact me:</h2>
 <p align="center">
