@@ -1,7 +1,7 @@
 <div align = "center">
 <img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h2 align = "center" >Hi, I'm Tomás Vicente</h2>
-<h3><!--<a href="https://fabio-a-sa.github.io">Online Resume</a>--></h3>
+<h3>Check My Resume (<a href="https://github.com/tomasvicente3/tomasvicente3/blob/main/CV_EN_Tomas_Vicente_2023.pdf">EN</a>) (<a href="https://github.com/tomasvicente3/tomasvicente3/blob/main/CV_PT_Tomas_Vicente_2023.pdf">PT</a>)</h3>
   <img src="https://komarev.com/ghpvc/?username=tomasvicente3&color=blue&style=for-the-badge"></img>
 </div>
 <br>
