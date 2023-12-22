@@ -11,7 +11,7 @@ Currently:
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tomasvicente3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasvicente3&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomasvicente3&layout=compact&langs_count=7&theme=dracula&hide=HTML,CSS"/>
 </div>
 
 <h2 align = "center" >Class Projects</h2>
