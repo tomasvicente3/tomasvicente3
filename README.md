@@ -7,8 +7,7 @@
 <br>
 
 Currently:
-- BSc in Informatics and Computing Engineering @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br>
-- Monitor in LCom UC for BSc in Informatics and Computer Engineering @ FEUP
+- MSc in Informatics and Computing Engineering @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br>
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tomasvicente3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
